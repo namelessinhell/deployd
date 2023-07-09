@@ -1,5 +1,5 @@
 {
-  "name": "new-deployd",
+  "name": "deployd",
   "version": "1.0.0",
   "description": "customize deploy for better dependency",
   "main": "index.js",
