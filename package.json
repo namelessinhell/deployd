@@ -1,0 +1,25 @@
+{
+  "name": "new-deployd",
+  "version": "1.0.0",
+  "description": "customize deploy for better dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "namelessinhell",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "cookies": "^0.8.0",
+    "corser": "^2.0.1",
+    "debug": "^4.3.4",
+    "doh": "github:namelessinhell/doh",
+    "mongo": "^0.1.0",
+    "qs": "^6.11.2",
+    "scrubber": "^0.0.0",
+    "send": "^0.18.0",
+    "shelljs": "^0.8.5",
+    "socket.io": "^4.7.1",
+    "underscore": "^1.13.6"
+  }
+}
